@@ -7,3 +7,4 @@ At the bottom, you find a glowing door covered with strange symbols.
 
 What do you do next?
 - [Run back outside](escape.md)
+- Opean the door and start the adventure!
