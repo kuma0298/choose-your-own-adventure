@@ -6,3 +6,4 @@ The air becomes colder with every step.
 At the bottom, you find a glowing door covered with strange symbols.
 
 What do you do next?
+- [Run back outside](escape.md)
