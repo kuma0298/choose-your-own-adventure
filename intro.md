@@ -7,4 +7,4 @@ A narrow staircase leads underground while a broken bridge crosses a deep river 
 
 What do you do next?
 
-- [Go down the underground staircase](underground-staircase.md)
+- [Go down the underground staircase](open-stone-door.md)
